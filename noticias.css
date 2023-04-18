@@ -1,0 +1,22 @@
+article{
+    background-color: #e5d7e7;
+    border-radius: 20px;
+    margin: 1em;
+    padding: 2em;
+    float: left;
+}
+img{
+    height: auto;
+    width: auto;
+    max-width: 350px;
+    max-height: 350px;
+}
+time{
+    font-style: italic;
+}
+h1{
+    font-size: 30px;
+}
+body{
+    background: linear-gradient(90deg, rgba(242,179,200,1) 0%, rgba(217,124,232,1) 35%, rgba(174,63,191,1) 76%);
+}
